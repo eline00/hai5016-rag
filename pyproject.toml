@@ -13,4 +13,5 @@ dependencies = [
     "langchain-postgres>=0.0.16",
     "langchain-text-splitters>=1.0.0",
     "psycopg2-binary>=2.9.11",
+    "streamlit>=1.52.0",
 ]
